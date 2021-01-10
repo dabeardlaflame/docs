@@ -25,7 +25,6 @@ If your country is not on this list, then we aren't currently able to reliably d
 <li>Bangladesh</li>
 <li>Belarus</li>
 <li>Belgium</li>
-<li>Benin</li>
 <li>Bolivia</li>
 <li>Bosnia and Herzegovina</li>
 <li>Brunei</li>
